@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "nombre":"Licenciatura en Gestion de la Tecnologia de Informacion",
+        "grado": 5,
+        "universidad":"UNPAZ",
+        "materias":[
+            {
+            "id": 1,
+            "nombre":"analisis Matematico",
+            "cuatrimestral":1,
+            "anio":1,
+            "carreraId":1
+            },
+            {
+                "id": 2,
+                "nombre":"programacion",
+                "cuatrimestral":1,
+                "anio":1,
+                "carreraId":1   
+            },
+            {
+                "id": 3,
+                "nombre":"Ingles",
+                "cuatrimestral":1,
+                "anio":1,
+                "carreraId":1  
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre":"Licenciatura en Administracion",
+        "grado": 5,
+        "universidad":"UNPAZ",
+        "materias":[
+            {
+            "id": 1,
+            "nombre":"Matematicas",
+            "cuatrimestral":2,
+            "anio":1,
+            "carreraId":2
+            },
+            {
+                "id": 2,
+                "nombre":"Administracion I",
+                "cuatrimestral":2,
+                "anio":1,
+                "carreraId":2  
+            },
+            {
+                "id": 3,
+                "nombre":"Introduccion a la economia",
+                "cuatrimestral":2,
+                "anio":1,
+                "carreraId":2  
+            }
+        ]
+    }
+
+        
+   
+]
