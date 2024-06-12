@@ -10,7 +10,7 @@ Este trabajo práctico tiene como objetivo principal en la implementación de un
 - Visual Studio Code
 - Node.js
 
-## pasos de instalacion y ejecucion
+## Pasos de instalacion y ejecucion
 - Abrir Visula Studio Code desde la carpeta de la Api
 - Abrir una nueva terminal en VSC
 - Instalar las dependencias de produccion y desarrollo 
@@ -22,7 +22,7 @@ npm i -D nodemon
 ```
 npm run dev
 ```
-- En el archivo se encontrar una coleccion que permite probar las funciones de la API
+- En el archivo Tp-Api se encontrar una coleccion que permite probar las funciones de la API
 
 # Modelo implementado
 Basado en el siguiente diagrama se genero los datos y relaciones necesarios para que la API pueda interactuar 
